@@ -1,0 +1,5 @@
+aiogram~=3.28.2
+aiosqlite~=0.22.1
+python-dotenv~=1.2.2
+dotenv~=0.9.9
+config~=0.5.1
